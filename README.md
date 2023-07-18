@@ -1,6 +1,6 @@
 # OneSpaceBitX
 
-Fiz um projeto de uma landing page de uma empresa espacial, com o curso da OneBitCode. 
+Fiz um projeto de uma landing page de uma empresa espacial, proposto no curso da OneBitCode. 
 
 ## Tecnologias:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
